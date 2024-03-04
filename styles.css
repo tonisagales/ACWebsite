@@ -9,7 +9,7 @@ body, html {
 
 #isabelle-container {
     position: relative;
-    width: 300px; /* Adjust to match the width of your GIF */
+    width: auto; /* Adjust to match the width of your GIF */
     margin: auto; /* Center the container */
 }
 
